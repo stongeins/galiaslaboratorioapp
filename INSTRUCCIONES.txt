@@ -1,0 +1,18 @@
+# GEOCIVMET - Sistema de Materias Primas
+# Paquete preparado para: galiaslabceramic
+# Fecha: 30/03/2026 21:14
+#
+# INSTRUCCIONES DE USO:
+# 1. Instalar Python 3.10+ (https://python.org)
+# 2. Instalar dependencias:
+#    pip install streamlit pandas plotly openpyxl numpy
+# 3. Ejecutar la aplicación:
+#    streamlit run app_arcillas.py
+# 4. Abrir en navegador: http://localhost:8501
+#
+# CREDENCIALES POR DEFECTO:
+#   Usuario: admin
+#   Contraseña: admin2026
+#
+# Created, Engineered & Developed by GEOCIVMET Consultores Técnicos
+# v4.0 Lab System | © 2026 Todos los derechos reservados.
